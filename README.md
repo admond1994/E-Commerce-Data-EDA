@@ -1,5 +1,8 @@
 # Exploratory Data Analysis (EDA) on E-Commerce data 
 
+## Data Source 
+https://www.kaggle.com/carrie1/ecommerce-data
+
 ## Context of Data 
 - Company - UK-based and registered non-store online retail
 - Products for selling - Mainly all-occasion gifts
